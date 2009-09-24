@@ -1,0 +1,7 @@
+category: KDE Net
+requires: libgcc1 libkdecore5 libQtCore4 libstdc++6
+sdesc: "KDE4 gopher I/O plugin"
+ldesc: "kio_gopher is a gopher kioslave. Kioslave is a kde technology 
+that allows kde programs to access a given protocol. Gopher is an 
+internet protocol similar to http with only text and links. That means 
+you will get gopher:// support in Konqueror."

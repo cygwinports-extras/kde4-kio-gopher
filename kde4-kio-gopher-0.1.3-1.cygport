@@ -1,0 +1,7 @@
+ORIG_PN="kio_gopher"
+inherit kde4
+
+DESCRIPTION="gopher:// KIO slave"
+HOMEPAGE="http://kgopher.berlios.de/"
+SRC_URI="mirror://kde/stable/4.3.1/src/extragear/${ORIG_PN}-${PV}-kde4.3.1.tar.bz2"
+SRC_DIR="${ORIG_PN}-${PV}-kde4.3.1"
