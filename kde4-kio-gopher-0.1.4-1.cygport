@@ -1,6 +1,0 @@
-ORIG_PN="kio-gopher"
-inherit kde4
-
-DESCRIPTION="gopher:// KIO slave"
-HOMEPAGE="http://kgopher.berlios.de/"
-SRC_URI="mirror://kde/stable/extragear/${ORIG_PN}-${PV}.tar.bz2"

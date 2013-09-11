@@ -1,0 +1,13 @@
+inherit kde4
+
+NAME="kde4-kio-gopher"
+VERSION=0.1.4
+RELEASE=1
+CATEGORY="KDE"
+SUMMARY="KDE4 gopher protocol support plugin"
+DESCRIPTION="This software gets you gopher protocol support in KIO. That is,
+you can browse gopher:// pages in Konqueror and open gopher:// located files
+in any KDE application."
+HOMEPAGE="http://kgopher.berlios.de/"
+SRC_URI="mirror://kde/stable/extragear/kio-gopher-${VERSION}.tar.bz2"
+SRC_DIR="kio-gopher-${VERSION}"
